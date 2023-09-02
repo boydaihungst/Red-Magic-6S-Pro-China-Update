@@ -1,6 +1,14 @@
 # Red-Magic-6S-Pro-China-Update
 
-In order to install OTA, you need to flash stock boot image file.
+## Step to flash
+
+Need unlock bootloader first.
+
+```sh
+adb reboot fastboot
+fastboot flash boot PATH_TO_BOOT_FILE
+fastboot reboot
+```
 
 ## Full packages
 
