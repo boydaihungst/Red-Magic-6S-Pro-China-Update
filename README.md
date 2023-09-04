@@ -19,6 +19,10 @@ You should flash and update to version 8.20 before flashing magisk patched boot.
 
 Flash these modules in magisk (delta). And remember to grant all permission in assistant, google, android auto, google play service, google play store, google service framework. (depend on your phone, chose the right android version)
 
+### Update google play service
+
+https://play.google.com/store/apps/details?id=com.google.android.gms&hl=en&gl=US
+
 ### fix google contacts, calendar not sync and lost google play store icon:
 
 Install google play store, google contacts sync, google calendar sync from apk files (get from apkmirror,  etc.).
@@ -29,6 +33,7 @@ https://github.com/fei-ke/unlock-cn-gms/releases
 
 ### fix android auto
 
+After flash this module, search bar in setting to find "android auto". 
 https://github.com/AndroPlus-org/magisk-module-androidauto/releases
 
 ### fix anhroid assistant (enable hello google and lockscreen hellogoogle)
