@@ -36,7 +36,7 @@ https://github.com/fei-ke/unlock-cn-gms/releases
 After flash this module, using search bar in setting to find "android auto". 
 https://github.com/AndroPlus-org/magisk-module-androidauto/releases
 
-### fix anhroid assistant (enable hello google and lockscreen hellogoogle)
+### fix anhroid assistant (enable hey/ok google and lockscreen hellogoogle)
 
 https://github.com/AndroPlus-org/magisk-module-assistant/releases
 
