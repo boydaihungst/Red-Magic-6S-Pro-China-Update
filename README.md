@@ -34,3 +34,10 @@ https://github.com/AndroPlus-org/magisk-module-androidauto/releases
 ### fix anhroid assistant (enable hello google and lockscreen hellogoogle)
 
 https://github.com/AndroPlus-org/magisk-module-assistant/releases
+
+### fix delay notifications
+
+1. go to setting > apps > self-start manage > check all the app you need to receive notifications in the background (eg: fb, reddit, x, etc)
+2. go to setting > notification and status bar > notification management > switch to third-party apps tab > open all the apps you want to receive notifications.
+3. go to setting > power management > application power management > click on the app and select "regardless of control" for the same app from step 1 2. (gg assistant, calendar/contacts sync, 
+gmail, or any apps that play music in background while screen is locked should be selected)
